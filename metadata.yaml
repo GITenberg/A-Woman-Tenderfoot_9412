@@ -1,0 +1,32 @@
+_repo: A-Woman-Tenderfoot_9412
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9412/9412-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Seton-Thompson, Grace Gallatin
+    aliases:
+    - Seton, Grace Gallatin
+    - Seton, Grace Thompson
+    gutenberg_agent_id: '3052'
+    url: http://www.gutenberg.org/2009/agents/3052
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Outdoor life'
+- !lcc 'F590.3'
+- !lcsh 'Hunting -- West (U.S.)'
+- GITenberg
+title: A Woman Tenderfoot
+url: http://www.gutenberg.org/ebooks/9412
